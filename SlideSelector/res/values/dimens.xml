@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">1dp</dimen>
+    <dimen name="activity_vertical_margin">1dp</dimen>
+    
+    <dimen name="update_itemfocus_offset_top">98dp</dimen>
+    <dimen name="update_itemfocus_offset_left">175dp</dimen>
+    
+    <dimen name="update_itemfocus_offset_with">6dp</dimen>
+    <dimen name="update_itemfocus_offset_height">1dp</dimen>
+    
+
+</resources>
